@@ -1,3 +1,4 @@
+# 2
 def main():
     for i in range(1, 101):
         if i % 3 == 0:
@@ -7,7 +8,6 @@ def main():
         if i % 3 != 0 and i % 5 != 0:
             print(i, end="")
         print()
-
 
 
 if __name__ == '__main__':
